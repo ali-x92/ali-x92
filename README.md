@@ -102,20 +102,14 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ali-x92/ali-x92/output/github-contribution-grid-snake-dark.svg" alt="snake">
-</p>
-
----
-
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=ali-x92&style=for-the-badge&color=0e75b6)
 
 ### Thanks for visiting ❤️
 
 </div>
-
-### Thanks for visiting ❤️
