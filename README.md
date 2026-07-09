@@ -1,4 +1,4 @@
-![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.jp)
+![Banner](https://github.com/ali-x92/ali-x92/blob/main/GITHUB.png)
 
 <div align="center">
 
