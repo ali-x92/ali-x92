@@ -8,7 +8,10 @@
 
 AI Specialist • Vibe Coder • Full-Stack Developer • UI/UX Designer • Startup Founder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Creating+Modern+Web+Experiences;Designing+Beautiful+User+Interfaces;Founder+of+BrandLux;Always+Learning+Something+New" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;Creating+Modern+Web+Experiences;Designing+Beautiful+User+Interfaces;Founder+of+BrandLux;AI+Specialist+%7C+Vibe+Coder+%7C+Startup+Founder" />
+  
+</p>
 
 </div>
 
@@ -26,7 +29,7 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
 - 🤖 AI Applications & AI Automation
 - 🌐 Full-Stack Web Development
@@ -39,46 +42,59 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### ⚡ Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,rust,html,css&theme=dark" />
+</p>
 
----
+### 🚀 Frameworks & Backend
 
-### Frameworks & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,supabase,mongodb,mysql,docker&theme=dark" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal)
+### 🎨 Design & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,aws&theme=dark" />
+</p>
 
 ---
 
-### Design
+# 🌐 Connect with Me
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva)
+<p align="left">
+<a href="https://github.com/ali-x92" target="_blank">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
+</a>
 
----
+<a href="www.linkedin.com/in/ali-siddiqui-71151539a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+</a>
 
-# 🌐 Connect With Me
+<a href="https://www.instagram.com/ali._x92?igsh=MWRtZ2E0aWd3djV2bQ==" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ali-siddiqui-71151539a)
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="48"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ali._x92?igsh=MWRtZ2E0aWd3djV2bQ==)
+<a href="https://www.behance.net/alikhursiddiqu" target="_blank">
+<img src="https://cdn.simpleicons.org/behance/1769FF" height="48"/>
+</a>
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/alikhursiddiqu)
+<a href="https://gravatar.com/impossiblewildly11472482f7" target="_blank">
+<img src="https://cdn.simpleicons.org/gravatar/1E8CBE" height="48"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:alikhurramsiddiqui@gmail.com)
+<a href="mailto:alikhurramsiddiqui@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="48"/>
+</a>
+</p>
 
 ---
 
@@ -108,9 +124,11 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
   <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
 </picture>
 
-![](https://komarev.com/ghpvc/?username=ali-x92&style=for-the-badge&color=0e75b6)
+
 
 ---
+
+<div align="center">
 
 ### Thanks for visiting ❤️
 
