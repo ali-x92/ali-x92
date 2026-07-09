@@ -1,4 +1,4 @@
-![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.jpg)
+![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.jp)
 
 <div align="center">
 
@@ -72,11 +72,11 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Ali%20Siddiqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ali-siddiqui-71151539a)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ali._x92)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ali._x92?igsh=MWRtZ2E0aWd3djV2bQ==)
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance)](https://behance.net/Ali%20Siddiqui)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/alikhursiddiqu)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:alikhurramsiddiqui@gmail.com)
 
@@ -109,6 +109,8 @@ As the founder of **BrandLux**, my mission is to empower businesses and creators
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=ali-x92&style=for-the-badge&color=0e75b6)
+
+---
 
 ### Thanks for visiting ❤️
 
